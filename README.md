@@ -1,2 +1,2 @@
 # MachineLearningAlgorithms
-CSCI567
+CSCI567 For Fall 2018
